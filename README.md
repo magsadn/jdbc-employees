@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/magsadn/jdbc-employees">
-    <img src= "logo.png.png" width="250" height="200">
+    <img src= "logo.png" width="250" height="200">
   </a>
 
 <h3 align="center">jdbc-employees</h3>
@@ -77,9 +77,9 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[issues-shield]: https://img.shields.io/github/license/magsadn/spring-boot-electronics-store.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/magsadn/jdbc-employees?style=for-the-badge
 [issues-url]: https://github.com/magsadn/jdbc-employees/issues
-[license-shield]: https://img.shields.io/github/license/magsadn/jdbc-employees?style=for-the-badgelogo
+[license-shield]: https://img.shields.io/github/license/magsadn/jdbc-employees?label=license&style=for-the-badge
 [license-url]: https://github.com/magsadn/jdbc-employees/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=249
 [linkedin-url]: https://www.linkedin.com/in/magsad/
